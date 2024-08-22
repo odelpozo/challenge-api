@@ -1,0 +1,13 @@
+org/wrapper/settings/config/AppMvcConfig.class
+org/wrapper/controller/UserController.class
+org/wrapper/model/User.class
+org/wrapper/App.class
+org/wrapper/settings/config/ExceptionsConfiguration.class
+org/wrapper/settings/filter/ContentTypeJsonFilter.class
+org/wrapper/model/Phone.class
+org/wrapper/exception/ExistingMailException.class
+org/wrapper/controller/Health.class
+org/wrapper/repository/UserRepository.class
+org/wrapper/settings/config/AppConfig.class
+org/wrapper/exception/ErrorResponse.class
+org/wrapper/service/UserService.class
